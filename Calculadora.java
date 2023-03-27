@@ -41,7 +41,10 @@ public class Calculadora {
                 break;
         }
 
-    }
 
+    }
+    public boolean prueba(){
+        return false;
+    }
 
 }
